@@ -13,3 +13,7 @@ def insertionsort(a):
 arr = [5, 4, 2, 5, 6, 11, 9, 1, 10, 3]
 arr = insertionsort(arr)
 print(*arr)
+
+
+
+
